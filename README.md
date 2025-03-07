@@ -1,1 +1,1 @@
-echo "Hello, Git!" > README.md
+echo "Новая функция" >> README.md
